@@ -341,7 +341,7 @@ const MemoryMatch = ({ onComplete }) => {
 };
 
 const WordScramble = ({ onComplete }) => {
-  const list = ["celebrate","together","friendship","sunshine","laughter","forever","memories"];
+  const list = ["kirana"];
   const [word, setWord] = useState("");
   const [scrambled, setScrambled] = useState("");
   const [guess, setGuess] = useState("");
