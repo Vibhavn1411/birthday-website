@@ -530,7 +530,7 @@ Bere ondu istu helodu idee sadyakee tumbaa late aagidee website naa update maadi
 im sorryyyy.....
 
 
-Once againn happietttt birthdayy nannn prettyy maguuuuu....🥰🥰🥰
+Once againn happiestttt birthdayy nannn prettyy maguuuuu....🥰🥰🥰
 `;
 
 const LoveLetter = () => {
